@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#header{
+    height: 10vh;
+    color:rgb(0, 0, 0);
+    font: condensed;
+    display: block;
+    font-size: 50px;
+    background-color: whitesmoke;
+   }
+
+#slider{
+    height: 70vh;
+    display: block;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.artikel{
+    height: 70vh;
+    background-color: whitesmoke;
+    width: 59vh;
+}
+
+#fotovanmij{
+    height: 60vh;
+    background-color: black;
+    color: white;
+}
+
+#info{
+    height: 60vh;
+    background-color: white;
+}
+
+#footer{
+    height: 10vh;
+    background-color: whitesmoke;
+}
